@@ -3,7 +3,7 @@ Main Reinforment Learning Algorithms Illustrated in Different gym Envrionments (
 
 This repository contains main RL algorithms illustrated on differnet gym envrionments (GridWolrd, LunarLander, CartPole). <br>
 This work was done with my colleague **Hakim Chekirou** as part of the course [**RLADL : Reinforcement Learning and advanced Deep Learning**](https://dac.lip6.fr/master/rladl/ "**RLADL : Reinforcement Learning and advanced Deep Learning**") while pursuing a master's degree in machine learning and statistics at Sorbonne University - [**M2 Apprentissage et Algorithmes (M2A)**](https://m2a.lip6.fr/description/ "**M2 Apprentissage et Algorithmes (M2A)**"). <br>
-Theoretical considerations, emprircal results and analysis are to be found in this report (french) [**report**](./Reports_RLD_practical_sessions.pdf "**practical sessions report**")
+Theoretical considerations, emprircal results and analysis are to be found in this report (french) [**report**](./Reports_RLD_practical_sessions.pdf "**practical sessions report**").
 
 # Explored Alogorithms :
 ## tme1 : Multi-Armed Bandits : Exploration vs Exploitation.
