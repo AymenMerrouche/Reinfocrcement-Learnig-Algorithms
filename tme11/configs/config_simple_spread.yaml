@@ -1,0 +1,17 @@
+env: 'simple_spread'
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 10000
+freqTest: 20
+nbTest: 5
+freqVerbose: 10000
+fromFile: null
+update_frequency : 2000
+nbEtats : 14
+nbActions : 2
+capacity : 100000
+batch_size : 2
+
+n_episode : 1000
+max_steps : 100
+eploration_phase : 100

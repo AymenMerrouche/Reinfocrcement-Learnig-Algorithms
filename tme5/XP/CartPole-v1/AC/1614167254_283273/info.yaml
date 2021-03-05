@@ -1,0 +1,10 @@
+Trajectory_size: 10
+env: CartPole-v1
+featExtractor: !!python/name:utils.NothingToDo ''
+freqSave: 10000
+freqTest: 20
+freqVerbose: 10000
+fromFile: null
+nbEpisodes: 5000
+nbTest: 5
+seed: 5

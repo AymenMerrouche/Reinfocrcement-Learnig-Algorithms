@@ -1,0 +1,18 @@
+env: CartPole-v1
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 10000
+freqTest: 20
+nbTest: 5
+freqVerbose: 10000
+fromFile: null
+nbEpisodes: 2000
+update_frequency : 2000
+alpha : 0.0005
+gamma : 0.98
+lmbda: 0.95
+epsilon: 0.2
+K : 3
+t_step: 40
+delta: 0.01
+entropy_weight: 0.01

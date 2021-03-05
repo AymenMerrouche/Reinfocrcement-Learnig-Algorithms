@@ -1,0 +1,16 @@
+env: MountainCarContinuous-v0
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 10000
+freqTest: 20
+nbTest: 5
+freqVerbose: 10000
+fromFile: null
+nbEpisodes: 2000
+update_frequency : 2000
+
+epsilon_mu        : 0.0005
+epsilon_q         : 0.001
+gamma        : 0.99
+batch_size   : 128
+ro      : 0.005

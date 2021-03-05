@@ -1,0 +1,19 @@
+K_epoch: 3
+T_horizon: 20
+Trajectory_size: 10
+alpha: 0.0002
+delta: 0.01
+env: CartPole-v1
+eps_clip: 0.1
+featExtractor: !!python/name:utils.NothingToDo ''
+freqSave: 10000
+freqTest: 20
+freqVerbose: 10000
+fromFile: null
+gamma: 0.98
+learning_rate: 0.0005
+lmbda: 0.95
+nbEpisodes: 100
+nbTest: 5
+seed: 5
+update_frequency: 2000

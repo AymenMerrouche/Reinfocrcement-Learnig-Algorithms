@@ -1,0 +1,16 @@
+batch_size: 256
+capacity: 100000
+env: simple_adversary
+episodes_before_train: 100
+featExtractor: !!python/name:utils.NothingToDo ''
+freqSave: 10000
+freqTest: 20
+freqVerbose: 10000
+fromFile: null
+max_steps: 100
+n_actions: 2
+n_episode: 1000
+n_states: 14
+nbTest: 5
+seed: 5
+update_frequency: 2000

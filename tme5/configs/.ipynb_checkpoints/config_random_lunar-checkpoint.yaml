@@ -1,0 +1,10 @@
+env: LunarLander-v2
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 10000
+freqTest: 5
+nbTest: 1
+freqVerbose: 10000
+fromFile: null
+nbEpisodes: 3000
+Trajectory_size: 10

@@ -1,0 +1,5 @@
+layers : [64, 32]
+lr : 0.003
+batch_size : -1
+epochs : 100
+mini_batch_size : 32

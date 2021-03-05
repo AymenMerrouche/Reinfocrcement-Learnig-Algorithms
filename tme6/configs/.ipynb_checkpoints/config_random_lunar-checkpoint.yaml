@@ -1,0 +1,18 @@
+env: LunarLander-v2
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 10000
+freqTest: 20
+nbTest: 5
+freqVerbose: 10000
+fromFile: null
+nbEpisodes: 3000
+Trajectory_size: 10
+comment : "version exactement comme cart"
+learning_rate : 0.0005
+gamma         : 0.98
+lmbda         : 0.95
+eps_clip      : 0.1
+K_epoch       : 5
+T_horizon     : 40
+delta : 0.01
