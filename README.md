@@ -1,2 +1,3 @@
 # Reinfocrcement-Learnig-Algorithms
-Main Reinforment Learning Algorithms Illustrated in Different gym Envrionments
+Main Reinforment Learning Algorithms Illustrated in Different gym Envrionments (python and PyTorch)
+This repository contains main RL algorithms illustrated on differnet gym games (GridWolrd, LunarLander, CartPole). This work was done with my fellow student **Hakim Chekirou** as part of the course [link to course's web page](https://dac.lip6.fr/master/rladl/ "**RLADL : Reinforcement Learning and advanced Deep Learning**") while pursuing a master's degree in machine learning and statistics at Sorbonne University - [link to master's web page](https://m2a.lip6.fr/description/ "**M2 Apprentissage et Algorithmes (M2A)**").
